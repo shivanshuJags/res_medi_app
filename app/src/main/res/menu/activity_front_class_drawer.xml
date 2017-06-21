@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_myAppointment"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="My Appointment" />
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="My Account" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="First Aid Video" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Doctors" />
+            <item
+                android:id="@+id/nav_download"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Our Downloads" />
+            <item
+                android:id="@+id/nav_free_Clinic"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Free Clinics" />
+
+        </menu>
+    </item>
+
+    <item android:title="null">
+    <menu>
+    <item android:title="Log Out"
+        android:id="@+id/log_out"></item></menu>
+</item>
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014413874354",
+    "firebase_url": "https://mediappointment-9acf4.firebaseio.com",
+    "project_id": "mediappointment-9acf4",
+    "storage_bucket": "mediappointment-9acf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014413874354:android:058f225cb13d3ad1",
+        "android_client_info": {
+          "package_name": "com.shivanshu.sak.mediappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014413874354-4l936k1fte90avdbfiln1uofv46ovrm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivanshu.sak.mediappointment",
+            "certificate_hash": "e5a0579afe71dcefc71c2b55241141e0462233cf"
+          }
+        },
+        {
+          "client_id": "1014413874354-fi9nr1ccpvjq9mkv7c9o4g0rieog13hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NDWsQHA7tM4D7EGDZQvrLzK4h1xeQ00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014413874354-fi9nr1ccpvjq9mkv7c9o4g0rieog13hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

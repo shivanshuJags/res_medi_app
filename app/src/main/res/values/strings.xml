@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Medi Appointment</string>
+    <string name="title_activity_front_class">FrontClass</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_doctors_list">DoctorsList</string>
+    <string-array name="gender_name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!--setting Doctor Department Spinner-->
+    <string-array name="department_name">
+        <item>Cardiology</item>
+        <item>Neurology</item>
+        <item>Neurosurgery</item>
+        <item>Urology</item>
+        <item>Dentist</item>
+        <item>Gastrology</item>
+        <item>Radiation Oncology</item>
+    </string-array>
+    <!--setting Department Spinner-->
+
+    <!--setting Doctor Experience Spinner-->
+    <string-array name="doctor_experience">
+        <item>0 yrs</item>
+        <item>1+ yrs</item>
+        <item>5+ yrs</item>
+        <item>10+ yrs</item>
+        <item>15+ yrs</item>
+        <item>20+ yrs</item>
+        <item>25+ yrs</item>
+    </string-array>
+    <!--setting Doctor Experience Spinner-->
+
+    <!--setting Doctor Experience Spinner-->
+    <string-array name="doctor_degree">
+        <item>M.B.B.S</item>
+        <item>B.D.S</item>
+        <item>B.Pharma</item>
+        <item>B.P.T(Physiotherapy)</item>
+        <item>B.Sc Nursing</item>
+        <item>M.D(Doctor of Medicine)</item>
+        <item>D.M</item>
+        <item>M.S(Master of Surgery)</item>
+    </string-array>
+    <!--setting Doctor Experience Spinner-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+
+    <string name="Venue">Room # 2 ground floor Oncology Bhawan</string>
+    <string name="time_1">Every Saturday, 10am - 12 pm</string>
+    <string name="dr_name">Dr. Madhup Rastogi,
+         Dr. Rahat Hadi,
+         Dr. Shantanu Sapru</string>
+
+    <string name="dietary_clinic">Room #105, Ground Floor, Oncology Bhawan</string>
+    <string name="time_2">Monday to Friday,  10am - 4 pm"</string>
+    <string name="dr_name_2">Anjulata Mishra (Dietician)</string>
+    <string name="Women_Cancer_Screening">Room #2, Ground Floor, Oncology Bhawan</string>
+    <string name="time_3">Monday to Friday,  10am - 4 pm"</string>
+    <string name="dr_name_3">Dr. Rohini Khurana
+    </string>
+    <string name="head_and_neck_cancer_support">Room # 105, First floor Oncology Bhawan</string>
+    <string name="time_4">Monday to Friday,  10am - 4 pm"</string>
+    <string name="dr_name_4">Dr.Mira Rastogi,Dr.Anup Soni</string>
+
+</resources>
